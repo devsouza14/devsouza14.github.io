@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(120, 120, 170);
+ }
+
+ p {
+    background-color: blue;
+    font-size: 18px
+ }
+
+ .competencias{
+    
+    background-color: ;
+    font-style: italic;
+    font-size: 20px;
+ }
+ #bloco-comp {
+    background-color: transparent;
+    text-align: center;
+ }
+ h1 {
+    text-align: center;
+    font-style: italic;
+    
+ }
+ h2 {
+    font-size: 18px;
+    font-style: ;
+ }
+ h3 {
+    font-size: 30px;
+    font-style: italic;
+    color: bisque;
+ }
+ 
+ ul{
+    text-align: center;
+    background-color: beige;
+    font-size: 20px;
+ }
